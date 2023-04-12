@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\物联网\\月考\\Test\\MyWeb\\MyWeb.csproj": {}
+    "D:\\物联网\\月考\\Test\\test\\MyWeb\\MyWeb.csproj": {}
   },
   "projects": {
-    "D:\\物联网\\月考\\Test\\MyWeb\\MyWeb.csproj": {
+    "D:\\物联网\\月考\\Test\\test\\MyWeb\\MyWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\物联网\\月考\\Test\\MyWeb\\MyWeb.csproj",
+        "projectUniqueName": "D:\\物联网\\月考\\Test\\test\\MyWeb\\MyWeb.csproj",
         "projectName": "MyWeb",
-        "projectPath": "D:\\物联网\\月考\\Test\\MyWeb\\MyWeb.csproj",
+        "projectPath": "D:\\物联网\\月考\\Test\\test\\MyWeb\\MyWeb.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\物联网\\月考\\Test\\MyWeb\\obj\\",
+        "outputPath": "D:\\物联网\\月考\\Test\\test\\MyWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

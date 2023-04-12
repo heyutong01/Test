@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gKuC2XSxyp/SwbqsbcbzOiq3wYGR8oJI61l06ExBzwf/5EpBg9w+MamjNZmWzNJOoyS3MOcOgKtzQDFiBcX+Mw==",
+  "dgSpecHash": "ZorTeDFcn1+6WL+DSH0g8yKP3XMOe5D/rjnBmYHsh7UBVJbtX8QMye8PwM4mmgxc7Dyks5ew5yEP+wvZhj+lEw==",
   "success": true,
-  "projectFilePath": "D:\\物联网\\月考\\Test\\MyWeb\\MyWeb.csproj",
+  "projectFilePath": "D:\\物联网\\月考\\Test\\test\\MyWeb\\MyWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
