@@ -8,7 +8,6 @@ namespace MyWeb.Controllers
     public class TestController : ControllerBase
     {
         [HttpGet("Message")]
-
         public IActionResult Message()
         {
             return Ok("完成");
