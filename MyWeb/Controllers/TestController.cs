@@ -10,7 +10,7 @@ namespace MyWeb.Controllers
         [HttpGet]
         public IActionResult Message()
         {
-            return Ok("请求完成");
+            return Ok("完成");
 
         }
 
