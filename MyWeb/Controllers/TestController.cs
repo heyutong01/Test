@@ -13,5 +13,11 @@ namespace MyWeb.Controllers
             return Ok("完成");
         }
 
+        [HttpGet]
+        public IActionResult NewMessage()
+        {
+            return Ok("新的信息已完成");
+        }
+
     }
 }
