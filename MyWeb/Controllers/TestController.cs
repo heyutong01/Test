@@ -11,7 +11,6 @@ namespace MyWeb.Controllers
         public IActionResult Message()
         {
             return Ok("完成");
-
         }
 
     }
