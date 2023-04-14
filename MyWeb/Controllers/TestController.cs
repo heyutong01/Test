@@ -3,12 +3,12 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace MyWeb.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class TestController : ControllerBase
     {
-        [HttpGet("Message")]
-        public IActionResult Message1()
+        [HttpGet]
+        public IActionResult Message()
         {
             return Ok("请求完成");
         }
