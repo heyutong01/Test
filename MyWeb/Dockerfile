@@ -1,6 +1,4 @@
-FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base   
-# ÐÞ¸ÄÈÝÆ÷¶Ë¿ÚºÅ  
-CMD ["sh", "-c", "echo '8080:8080' >> /etc/docker/daemon.json"]
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base    
 WORKDIR /app
 COPY . .  
 EXPOSE 80

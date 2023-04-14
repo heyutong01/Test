@@ -8,9 +8,15 @@ namespace MyWeb.Controllers
     public class TestController : ControllerBase
     {
         [HttpGet("Message")]
-        public IActionResult Message()
+        public IActionResult Message1()
         {
-            return Ok("完成");
+            return Ok("请求01完成");
+        }
+
+        [HttpGet("Message")]
+        public IActionResult Message2()
+        {
+            return Ok("请求02完成");
         }
     }
 }
